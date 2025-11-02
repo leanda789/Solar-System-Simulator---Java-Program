@@ -1,6 +1,6 @@
 # Solar-System-Simulator---Java-Program
 
-#Tools: Java,OOP, & Data Structures to simulate Solar Systems
+#Tools: Java,OOP, & Data Structures
 
 #ArrayLists - dynamically store & manage a list of planets in a Solar System
 
